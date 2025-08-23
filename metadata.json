@@ -1,0 +1,5 @@
+{
+  "name": "Urvann Mini Plant Store",
+  "description": "A responsive and visually appealing mini plant store where users can browse, search, and filter a catalog of plants. It also includes an admin feature to add new plants and a Gemini-powered Plant Care Assistant for expert advice.",
+  "requestFramePermissions": []
+}
