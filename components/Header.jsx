@@ -11,7 +11,7 @@ const Header = ({ onAddPlantClick }) => {
                     <path d="M8 5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5m0 1a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7M6.5 7A1.5 1.5 0 1 0 5 8.5 1.5 1.5 0 0 0 6.5 7m3 0A1.5 1.5 0 1 0 11 8.5 1.5 1.5 0 0 0 9.5 7M6.5 10A1.5 1.5 0 1 0 5 11.5 1.5 1.5 0 0 0 6.5 10m3 0A1.5 1.5 0 1 0 11 11.5 1.5 1.5 0 0 0 9.5 10M10 6.5A1.5 1.5 0 1 0 8.5 5 1.5 1.5 0 0 0 10 6.5m-3 0A1.5 1.5 0 1 0 5.5 5 1.5 1.5 0 0 0 7 6.5m-2 3A1.5 1.5 0 1 0 3.5 8 1.5 1.5 0 0 0 5 9.5m5 0A1.5 1.5 0 1 0 11.5 8 1.5 1.5 0 0 0 10 9.5"/>
                 </svg>
             </div>
-            <span className="navbar-brand-title">Urvann Plant Store</span>
+            <span className="navbar-brand-title">Plantify Plant Store</span>
           </a>
           <button
             onClick={onAddPlantClick}

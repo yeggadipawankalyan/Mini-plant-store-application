@@ -1,4 +1,5 @@
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://mini-plant-store-application-production.up.railway.app/api';
+// const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://mini-plant-store-application-production-6662.up.railway.app/api';
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
 
 // Helper function to handle API responses
 const handleResponse = async (response) => {

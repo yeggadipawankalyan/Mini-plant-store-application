@@ -2,6 +2,8 @@
 
 A full-stack plant store application built with React (frontend) and Node.js + Express + PostgreSQL (backend).
 
+PlantStore2024!@#$%^&*()_+SecureKeyRandomString987654321
+
 ## 🚀 Features
 
 ### Frontend Features
